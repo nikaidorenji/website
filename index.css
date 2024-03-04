@@ -49,11 +49,11 @@
 
   background-repeat : repeat-y;
   background-position : left center;
-  background-color : #fefefe;
+  background-color : #f8f8f8;
   background-image : url(orange_bar.gif);
 }
 .header{
-  background-color : #fefefe;
+  background-color : #f8f8f8;
   padding-top : 0px;
   padding-left : 0px;
   padding-right : 0px;
@@ -88,7 +88,7 @@
   bottom:0; 
 }
 .footer{
-  background-color : #fefefe;
+  background-color : #f8f8f8;
   padding-top : 0px;
   padding-left : 0px;
   padding-right : 0px;
