@@ -1,0 +1,190 @@
+BODY{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  font-size : 0.91em;
+
+  color : #333333;
+
+  font-family : 'ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','メイリオ',Meiryo,'ＭＳ Ｐゴシック','MS PGothic',sans-serif;
+  line-height : 1.6em;
+}
+P{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0.8em;
+  border-width : 0px 0px 0px 0px;
+}
+LI{
+  padding-top : px;
+  padding-left : 13px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0.0em;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0.8em;
+  border-width : 0px 0px 0px 0px;
+  list-style-type : none;
+
+  background-image : url(list_dot.gif);background-position : left top;
+  background-repeat : no-repeat;
+}
+H2{
+  font-size : 1.4em;
+  margin-top : 0px;
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 1px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 1.23em;
+  border-width : 0px 0px 4px 0px;
+
+  color : black;
+  border-bottom-style : solid;
+  border-bottom-color : #333333;
+}
+
+H3{
+  font-size : 100%;
+  font-weight : bold;
+  padding-top : 0px;
+
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+
+  background-image : url(h3_dot.gif);
+  background-repeat : no-repeat;background-position : left center;
+  padding-left : 21px;
+}
+H4{
+  font-size : 1.15em;
+  font-weight : bold;
+  padding-top : 0px;
+
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 1.6em;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0.2em;
+  border-width : 0px 0px 0px 0px;
+}
+H5{
+  font-size : 1.0em;
+  font-weight : bold;
+  padding-top : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  color : #666666;
+}
+UL{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0.8em;
+  border-width : 0px 0px 0px 0px;
+}
+A:VISITED{
+  color : #428242;
+}
+A:LINK{
+  color : #257425;
+}
+A{
+  color : #257425;
+}
+TABLE{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+
+  margin-bottom : 1.6em;
+  border-width : 1px 1px 1px 1px;
+  font-size : 100%;
+  line-height : 1.6em;
+  color : #333333;
+
+border-style : solid solid solid solid;border-color : #333301 #333301 #333301 #333301;
+border-collapse: collapse;
+
+
+
+}
+TD{border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-color : #333333 #333333 #333333 #333333;
+  padding-top : 0px;
+  padding-left : 0.3em;
+  padding-right : 0.3em;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+}
+TR{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 1px 1px 1px 1px;border-style : solid solid solid solid;border-color : aqua aqua aqua aqua;}
+
+/* P‚âULATABLE‚Ì‰º‚Ì‹ó”’‚ð‘Å‚¿Á‚· */
+.gyoukan_zero{
+  margin-bottom : 0em;
+}
+IMG{
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 0px 0px 0px 0px;}
+
+/*勝手に入るfc2の表記を左上へ*/
+DIV#fc2_footer{
+  position: absolute!important;/*絶対配置で上へ*/
+  top:0px!important;
+  right:0px!important;
+  line-height:0.333em!important;/*br2つ（＝行間3つ分）を打ち消すため*/
+}
+DIV#fc2_footer span{/*文字を目立たないように*/
+  color:#666666!important;
+}

@@ -1,0 +1,222 @@
+.waku0{ //一番外側画面全体
+  text-align : center;
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  border-style : none none none none;
+  width : 100%;
+  background-color : #e9e8e1;
+  background-image : url(shadow.png);
+  background-repeat : repeat-y;
+  background-position : center;
+}
+.waku05{ //コンテンツ部分の外枠（なんだっけ最下部を最下部までのばすためのなにか？）
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : auto;
+  margin-right : auto;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  width : 364px;
+
+
+  background-repeat : repeat-y;background-position : left center;
+  background-color : #3a3e33;
+  background-image : url(orange_bar.gif);
+
+}
+.waku1{ //コンテンツ部分の外枠
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : auto;
+  margin-right : auto;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  width : 364px;
+
+
+  background-repeat : repeat-y;
+  background-position : left center;
+  background-color : #fefefe;
+  background-image : url(orange_bar.gif);
+}
+.header{
+  background-color : #fefefe;
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  width : 364px;
+  height : 602px;
+
+  background-position : left center;
+  text-align : left;
+  background-image : url(orange_bar.gif);
+  background-repeat : repeat-y;
+
+  position:relative;
+}
+.header_profile{
+  padding-top : 4px;
+  padding-left : 50px;
+  padding-right : 10px;
+  padding-bottom : 10px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+
+  position:absolute; 
+  bottom:0; 
+}
+.footer{
+  background-color : #fefefe;
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 0px 0px 0px 0px;
+  width : 364px;
+  height : 61px;
+
+  background-position : left center;
+  text-align : left;
+  background-image : url(orange_bar.gif);
+  background-repeat : repeat-y;
+
+}
+.menu{
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 0px 0px 0px 0px;
+  width : 364px;
+  height : 41px;
+  background-position : left center;
+  background-repeat : repeat-y;
+  text-align : left;
+  background-image : url(orange_bar.gif);
+  background-color : #e9e8e0;
+}
+.spacer{
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  width : 364px;
+  height : 21px;
+  background-position : left center;
+  background-repeat : repeat-y;
+  text-align : left;
+
+}
+.setsumei{
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 0px 0px 0px 0px;
+  width : 364px;
+
+  background-position : left center;
+  background-repeat : repeat-y;
+  text-align : left;
+
+}
+.setsumei_in{
+  padding-top : 7px;
+  padding-left : 47px;
+  padding-right : 11px;
+  padding-bottom : 22px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+}
+.kahen_spacer{
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;border-width : 0px 0px 0px 0px;
+  width : 364px;
+
+  background-position : left center;
+  background-repeat : repeat-y;
+  text-align : left;
+  background-image : url(orange_bar.gif);
+  height : 100%;
+
+}
+BODY{
+  background-color : #e9e8e1;
+  background-image : url(shadow.png);
+  background-repeat : repeat-y;
+  background-position : center center;
+}
+
+A:HOVER#menu{
+
+  background-image : url(orange_bar.gif);
+  background-color : #fffee7;
+  background-repeat : repeat-y;background-position : left center;
+}
+A#menu{
+  display: block;
+  width : 364px;
+  height : 41px;
+
+  padding-top : 0px;
+  padding-left : 0px;
+  padding-right : 0px;
+  padding-bottom : 0px;
+  margin-top : 0px;
+  margin-left : 0px;
+  margin-right : 0px;
+  margin-bottom : 0px;
+  border-width : 0px 0px 0px 0px;
+  background-color : #e9e8e0;
+  background-image : url(orange_bar.gif);
+  background-repeat : repeat-y;background-position : left center;
+}
